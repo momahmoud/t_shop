@@ -1,0 +1,21 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+Color mainColor = Colors.pink[100];
+const productCollection = 'products';
+const orderCollection = 'orders';
+const orderDetails = 'orderDetails';
+const totalPrice = 'totalPrice';
+const kAddress = 'address';
+const productName = 'product_name';
+const productDescription = 'product_description';
+const productPrice = 'product_price';
+const productCategory = 'product_category';
+const productLocation = 'product_location';
+const kJackets = 'jackets';
+const kTrousers = 'trousers';
+const kTshirts = 't-shirts';
+const kShoes = 'shoes';
+const kTshirtss = 'tshirts';
+const productQuantity = 'productQuantity';
+const kStayLogin = 'stayLogin';

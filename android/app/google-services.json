@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195031537213",
+    "firebase_url": "https://t-shop-581d3.firebaseio.com",
+    "project_id": "t-shop-581d3",
+    "storage_bucket": "t-shop-581d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195031537213:android:4ced2f6a488f571ac67c54",
+        "android_client_info": {
+          "package_name": "com.example.hi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195031537213-alvmphbvc6jdnsksj20fgclm7sfvqdlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mTUOzwEKEPjbj-mOeaYQqteNdMQ61B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195031537213-alvmphbvc6jdnsksj20fgclm7sfvqdlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
